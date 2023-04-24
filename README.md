@@ -1,16 +1,33 @@
-### Hi there 👋
+Hi, I'm Richard Nzembei 👋
 
-<!--
-**richardosca/richardosca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student with a keen interest in data science and software engineering. I am always striving to learn new things and improve my skills.
+📫 Contact Me
 
-Here are some ideas to get you started:
+    Email: example@gmail.com
+    LinkedIn: linkedin.com/in/richardnzembei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on...
+
+    Developing my skills in data science and machine learning.
+    Contributing to open-source projects and building my portfolio.
+
+🌱 I’m currently learning...
+
+    Data analysis and visualization with Python.
+    Web development with React.
+
+💬 Ask me about...
+
+    Python programming.
+    Data analysis and visualization.
+    Machine learning algorithms and models.
+
+😄 Pronouns
+
+    He/Him
+
+⚡ Fun fact
+
+    I love to play chess and solve puzzles in my free time.
+
+Thanks for visiting my profile! Feel free to connect with me and let's learn together. 🤝
