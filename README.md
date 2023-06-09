@@ -3,7 +3,7 @@ Hi, I'm Richard Nzembei 👋
 I am a computer science student with a keen interest in data science and software engineering. I am always striving to learn new things and improve my skills.
 📫 Contact Me
 
-    Email: example@gmail.com
+    Email: richarsonreuben78@gmail.com
     LinkedIn: linkedin.com/in/richardnzembei
 
 🔭 I’m currently working on...
